@@ -1,0 +1,9 @@
+APP_NAME = "Dyousen"
+
+VERSION = '1.0.0'
+
+FK_CONSTRAINT = 'fkey'
+
+M2M_CONSTRAINT = 'm2m'
+
+PK_CONSTRAINT = 'pkey'
